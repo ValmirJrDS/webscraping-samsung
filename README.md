@@ -1,4 +1,5 @@
-# 📘 Coleta de Dados com Scrapy — Mercado Livre Notebooks
+# 📘 1 - Coleta de Dados com Scrapy — Mercado Livre Notebooks
+# 📘 2 - Hospedagem do BD no Digital Ocean para utilização em projetos de N8N
 
 Este guia documenta o passo a passo completo de um projeto real de scraping de produtos (notebooks) no site do Mercado Livre, utilizando **Scrapy**, uma das ferramentas mais poderosas de coleta de dados com Python.
 
