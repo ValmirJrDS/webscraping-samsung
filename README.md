@@ -447,8 +447,4 @@ Esta documentação deve servir como guia para qualquer nova implantação ou pa
 
 
 
-O próximo passo é criar transformações (por exemplo, limpeza de preços e normalização dos nomes) e visualizações (como dashboards com Streamlit, Dash ou Power BI).
 
-
-
-Quer seguir nessa linha agora?
